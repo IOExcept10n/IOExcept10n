@@ -13,7 +13,7 @@
 #### 🌍 I'm from Chelyabinsk, Russia </br>
 #### 🎓 Study in the high school on IT profile (11th grade) </br>
 #### 🧩 Ended Microsoft Learn Student Ambassador courses (2022) </br>
-#### waiting for the end of sanctions to be a part of Ambassadors </br>
+#### Waiting for the end of sanctions to be a part of Ambassadors </br>
 #### 🏅 Ended the project Samsung IT-School with honours (2022) </br>
 
 ### Tools I use in programming: 
