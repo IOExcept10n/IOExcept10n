@@ -1,14 +1,14 @@
 <h1 align="center"> Hi there, I'm Ivan <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=student,+learning+desktop%2Fgame+development+with+C#)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=student,+learning+desktop%2Fgame)(https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=development+with+C%23)(https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=IOExcept10n)
 
 <h3 align="center">My favorite programming languages: </h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IOExcept10n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IOExcept10n&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">My GitHub stats: </h3>
-[![IOExcept10n's GitHub stats](https://github-readme-stats.vercel.app/api?username=IOExcept10n)](https://github.com/anuraghazra/github-readme-stats)
+![IOExcept10n's GitHub stats](https://github-readme-stats.vercel.app/api?username=IOExcept10n)(https://github.com/anuraghazra/github-readme-stats)
 
 🌍 I'm from Chelyabinsk, Russia
 🎓 Study in the high school on IT profile (11th grade)
