@@ -1,7 +1,6 @@
 <h1 align="center"> Hi there, I'm Ivan <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=student,+learning+desktop%2Fgame)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=development+with+C%23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&lines=Student%2C+learning+desktop%2Fgame+development)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=IOExcept10n)
 
 ### My favorite programming languages: 
