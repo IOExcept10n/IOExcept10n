@@ -10,11 +10,11 @@
 ### My GitHub stats: 
 [![IOExcept10n's GitHub stats](https://github-readme-stats.vercel.app/api?username=IOExcept10n)](https://github.com/anuraghazra/github-readme-stats)
 
-🌍 I'm from Chelyabinsk, Russia
-🎓 Study in the high school on IT profile (11th grade)
-🧩 Ended Microsoft Learn Student Ambassador courses (2022)
-- waiting for the end of sanctions to be a part of Ambassadors
-🏅 Ended the project Samsung IT-School with honours (2022)
+#### 🌍 I'm from Chelyabinsk, Russia </br>
+#### 🎓 Study in the high school on IT profile (11th grade) </br>
+#### 🧩 Ended Microsoft Learn Student Ambassador courses (2022) </br>
+#### waiting for the end of sanctions to be a part of Ambassadors </br>
+#### 🏅 Ended the project Samsung IT-School with honours (2022) </br>
 
 ### Tools I use in programming: 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
