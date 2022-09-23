@@ -13,8 +13,7 @@
 #### 🌍 I'm from Chelyabinsk, Russia </br>
 #### 🎓 Study in the high school on IT profile (11th grade) </br>
 #### 🧩 Ended Microsoft Learn Student Ambassador courses (2022) </br>
-#### Waiting for the end of sanctions to be a part of Ambassadors </br>
-#### 🏅 Ended the project Samsung IT-School with honours (2022) </br>
+#### 🏅 Ended the project Samsung IT-School with honors (2022) </br>
 
 ### Tools I use in programming: 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
