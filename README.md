@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&lines=Student%2C+learning+desktop%2Fgame+development)](https://git.io/typing-svg)
 </br>
-![](https://komarev.com/ghpvc/?username=IOExcept10n)
 
 ### My favorite programming languages: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IOExcept10n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
