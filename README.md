@@ -25,7 +25,7 @@
 
 ### My social media: 
 [![VK](https://img.shields.io/badge/-VK-303030?style=for-the-badge&logo=VK&logoColor=6E85D3)](https://vk.com/ioexcept10n)
-![Discord](https://img.shields.io/badge/-Discord-303030?style=for-the-badge&logo=discord&logoColor=6E85D3)
+![Discord](https://img.shields.io/badge/-@ioexcept10n-303030?style=for-the-badge&logo=discord&logoColor=6E85D3)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-303030?style=for-the-badge&logo=stackoverflow&logoColor=EC7C23)](https://stackoverflow.com/users/16944936/ioexception)
 [![Telegram](https://img.shields.io/badge/-Telegram-303030?style=for-the-badge&logo=telegram&logoColor=1F9BDA)](https://t.me/ioexcept10n)
 
