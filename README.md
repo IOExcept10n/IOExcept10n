@@ -10,7 +10,7 @@
 [![IOExcept10n's GitHub stats](https://github-readme-stats.vercel.app/api?username=IOExcept10n)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🌍 I'm from Chelyabinsk, Russia </br>
-#### 🎓 Study in the high school on IT profile (11th grade) </br>
+#### 🎓 Ended the high school on IT profile </br>
 #### 🧩 Ended Microsoft Learn Student Ambassador courses (2022) </br>
 #### 🏅 Ended the project Samsung IT-School with honors (2022) </br>
 
@@ -25,9 +25,9 @@
 
 ### My social media: 
 [![VK](https://img.shields.io/badge/-VK-303030?style=for-the-badge&logo=VK&logoColor=6E85D3)](https://vk.com/ioexcept10n)
-![Discord](https://img.shields.io/badge/-IOException%234138-303030?style=for-the-badge&logo=discord&logoColor=6E85D3)
+![Discord](https://img.shields.io/badge/-Discord-303030?style=for-the-badge&logo=discord&logoColor=6E85D3)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-303030?style=for-the-badge&logo=stackoverflow&logoColor=EC7C23)](https://stackoverflow.com/users/16944936/ioexception)
-![Telegram](https://img.shields.io/badge/-@IOExcept10n-303030?style=for-the-badge&logo=telegram&logoColor=1F9BDA)
+[![Telegram](https://img.shields.io/badge/-Telegram-303030?style=for-the-badge&logo=telegram&logoColor=1F9BDA)](https://t.me/ioexcept10n)
 
 <!--
 **IOExcept10n/IOExcept10n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
