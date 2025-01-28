@@ -10,7 +10,7 @@
 [![IOExcept10n's GitHub stats](https://github-readme-stats.vercel.app/api?username=IOExcept10n)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🌍 I'm from Chelyabinsk, Russia </br>
-#### 🎓 Ended the high school on IT profile </br>
+#### 🎓 Currently studying at South Ural State University (SUSU) </br>
 #### 🧩 Ended Microsoft Learn Student Ambassador courses (2022) </br>
 #### 🏅 Ended the project Samsung IT-School with honors (2022) </br>
 
