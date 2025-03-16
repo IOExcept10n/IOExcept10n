@@ -22,6 +22,9 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-%230d174b.svg?style=flat-square&logo=yolo)
 
+### My GitHub short details
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/IOExcept10n?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ## Recent Achievements
 - 🏆 Finalist in NERC ICPC 2023
 - 🚀 Finalist of State Game Development Accelerator
